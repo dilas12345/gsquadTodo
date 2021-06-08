@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
 	container: {
 		marginRight: 15,
 		flexDirection: 'row',
-		borderRadius: 5,
+		borderRadius: 10,
 		backgroundColor: 'white',
 		height: 75,
 		alignItems: 'center',
@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
 	column: {
 		flexDirection: 'row',
 		alignItems: 'center',
-		width: width / 1.5
+		width: width / 1.5,
 	},
 	text: {
 		fontWeight: '500',

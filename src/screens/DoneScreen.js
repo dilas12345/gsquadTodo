@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Image, Platform, StyleSheet, Text, TouchableOpacity, View, AsyncStorage } from 'react-native';
+import { Image, Platform, StyleSheet, Text, TouchableOpacity, View, AsyncStorage, ImageBackground } from 'react-native';
 import { ScrollView } from 'react-native-gesture-handler';
 import * as WebBrowser from 'expo-web-browser';
 
